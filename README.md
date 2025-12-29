@@ -31,4 +31,4 @@ O repositório está organizado por tópicos de aprendizado:
 - Desafios práticos diários
 
 ---
-Developed by **[Seu Nome]** | Student of Cyber Defense 🛡️
+Developed by Thaynara Souza | Student of Cyber Defense 🛡️
